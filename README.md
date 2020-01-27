@@ -412,6 +412,6 @@ new Watcher(this.$vm, exp, value => {
 ```
 
 # 掘金链接
-(Vue中数据响应式, 手写简版的, 你会吗?)[https://juejin.im/post/5e2e8f916fb9a02fe971fec7]
+[Vue中数据响应式, 手写简版的, 你会吗?](https://juejin.im/post/5e2e8f916fb9a02fe971fec7)
 
 
